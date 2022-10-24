@@ -1,4 +1,4 @@
 module.exports=
 {
-  db:'mongodb://localhost:27017/db'
+  db:'mongodb+srv://steve:1111@cluster0.q8qxczq.mongodb.net/?retryWrites=true&w=majority'
 }
